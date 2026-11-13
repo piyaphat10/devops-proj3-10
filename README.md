@@ -1,1 +1,3 @@
-# devops-proj3-10
+# devops-proj2-10
+ปิยพัชร์ ประยูรพัฒน์ 0942512795
+piyaphat@gmail.com
